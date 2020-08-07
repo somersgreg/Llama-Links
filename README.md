@@ -1,4 +1,4 @@
-# Lambda-Bookmark-Structure
+# Lambda-Links-Structure
 
 This is intended to represent just an *idea* of how one might better organize their bookmarks collected during Lambda School.
 It may be completely boneheaded but it could develop into something better with some collaboration.
