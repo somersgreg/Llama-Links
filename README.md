@@ -1,7 +1,8 @@
-# Lambda-Links-Structure
+# Lambda-Links
 
-This is intended to represent just an *idea* of how one might better organize their bookmarks collected during Lambda School.
-It may be completely boneheaded but it could develop into something better with some collaboration.
-Im always interested in finding better ways to do things and I dont assume my methods are correct but I have found it to be a problem.
-The idea of creating Notion.so bookmark pages might be better but I dont know how. :( 
-The links initially included are just examples but some I consider vital.
+Import this .html file to your browser and get a imo decent way to organize links while attending Lambda. 
+As a optional practice you can create a Bookmarks folder on the cloud or locally to save a backup of your current links just in case anything ever happens.
+Nothing bad should happen by importing this file.  It will just add a new bookmark or favorites directory with our course structure outline. The name of that directory might be "Lambda Links" or some generic name.  
+Im interested to learn how each browser handles that so I can make it better so if anyone can test that would be super helpful. 
+
+Thank you and I hope this helps someone. 
