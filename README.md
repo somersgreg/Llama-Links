@@ -5,7 +5,7 @@
 ### A. Mainly to help others but also during my time so far at Lambda School I : 
 *  ...didn't have instant recall of where I found a solution so I could revisit or explain how I accomplished a thing.
 *  ...was trying to teach someone a thing when I should have shared a link to how I learned that thing.
-*  ...lost my own work not rememebring in which sandbox I was working at that particular project.
+*  ...lost my own work not remembering in which sandbox I was working at that particular project.
 *  ...took much longer to find a reference during a sprint because I had to google something and forgot the exact query.
 *  ...wished I had saved bookmarks by when I used them instead of by subject because they built up fast in areas and overlap was an issue.
 *  ...found many links I needed a a certain time became redundant or inconsequential later either because I mastered the thing or the concept was no longer needed.
