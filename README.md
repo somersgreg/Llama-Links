@@ -4,30 +4,30 @@
 
 ## Q. Why did I start this?
 
-### A. Mainly to help others but also during my time so far at Lambda School I . . . 
+### A. Mainly to help others, but also during my time so far at Lambda School I . . . 
 *  ...didn't have instant recall of where I found a solution so I could revisit or explain how I accomplished a thing.
-*  ...was trying to teach someone a thing when I should have shared a link to how I learned that thing.
-*  ...lost my own work not remembering in which sandbox I was working at that particular project.
+*  ...was trying to teach someone a thing when I could have shared a link to how I learned that thing.
+*  ...lost my work not remembering in which sandbox I was working for that particular project.
 *  ...was unsure of a project title to submit in the retrospective because the project names differ. 
-*  ...took much longer to find a reference during a sprint because I had to google something and forgot the exact query.
-*  ...wished I had saved bookmarks by when I used them instead of by subject because they built up fast in areas and overlap was an issue.
-*  ...found many links I needed a a certain time became redundant or inconsequential later either because I mastered the thing or the concept was no longer needed.
+*  ...took much longer to find a reference during a sprint because I had to google something and forgot the exact query I'd used.
+*  ...wished I had saved bookmarks by *when* I used them instead of by *subject* because they built up fast in areas and overlap was an issue.
+*  ...found many links I needed at a certain time became redundant or inconsequential later either because I mastered the thing or the concept was no longer needed.
 *  ...discovered not having a link plan resulted in an unhelpful mess.
 
 ## What are the benefits?
 
-*  Simplicity and cross platform standarsization.
-*  Room for improvement and potential knowledge base Web App integration.
+*  Simplicity and cross platform standardization.
+*  Room for improvement and potential knowledge based Web App integration.
 *  Ability to throw links into a folder without worrying about organizing, losing, or creating disorder.
 *  Seeking and sharing is enhanced especially if a web app is developed.
-*  Ease of finding links you need during a sprint.
+*  Ease of finding links you need during a sprint exam.
 *  Give a better overview of student progress while maintaining a history as well.
-*  Opening a discussion about organisation and work flow processes is an underdeveloped student skill set.
-*  Helping students with organisation may result in:
-      1. Reduced stress and student retention.
+*  Opening a discussion about organisation and work flow processes is an underdeveloped yet fundamental learning skill set.
+*  Helping students with organization may result in:
+      1. Reduced mental stress and student retention.
       1. Increased learning potential.
       1. More successful testing and progression.
-      1. Facilitated sharing and camaraderie.
+      1. Facilitated sharing and teamwork.
 
 # The Way This Works
 
