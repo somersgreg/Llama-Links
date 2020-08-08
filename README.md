@@ -1,4 +1,4 @@
-# Λ_LAMBDA LINKS_Λ
+# Λ_LAMBDA LINKS
 
 ## Q. Why did I start this?
 
@@ -40,7 +40,7 @@
 ### I wish to stress that nothing bad will happen by downloading these links. They can be easily deleted from any browser by right clicking on the top folder and sending to trash.
 ### I've included several links that I thought were most useful to new students.
 ### I'm hoping for feedback about that and anything else that might come up.
-#### Different browsers will force rename the top folder.  I can't figure out how to stop this.  Help wanted. Preferred Top title is ' Λ_LAMBDA LINKS_Λ ' just because it uses a lambda symbol as the first character which can help in several ways. 
+#### Different browsers will force rename the top folder.  I can't figure out how to stop this.  Help wanted. Preferred Top title currently is ' Λ_LAMBDA LINKS' just because it uses a lambda symbol as the first character which can help in several ways. 
 Im interested to learn how each browser handles the top folder so I can make it better so if anyone can test that would be super helpful. 
 
 Thank you and I hope this helps someone. 
