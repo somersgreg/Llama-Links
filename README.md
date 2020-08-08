@@ -1,8 +1,10 @@
 # Λ_LAMBDA LINKS
 
+### Lambda Links is a bookmark folder structure that follows the LS syllabus and contains limited but useful links to get students started and keep them organized.
+
 ## Q. Why did I start this?
 
-### A. Mainly to help others but also during my time so far at Lambda School I : 
+### A. Mainly to help others but also during my time so far at Lambda School I . . . 
 *  ...didn't have instant recall of where I found a solution so I could revisit or explain how I accomplished a thing.
 *  ...was trying to teach someone a thing when I should have shared a link to how I learned that thing.
 *  ...lost my own work not remembering in which sandbox I was working at that particular project.
