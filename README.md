@@ -1,4 +1,4 @@
-# Λ_LAMBDA LINKS
+# Λ_LlAMA LINKS
 
 ### Lambda Links is a bookmark folder structure that follows the LS syllabus and contains limited but useful links to get students started and keep them organized.
 
