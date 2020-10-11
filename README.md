@@ -29,20 +29,16 @@
       1. More successful testing and progression.
       1. Facilitated sharing and teamwork.
 
-# The Way This Works
+# The Way This Works (Install)
 
-1. User can download the file as a zip by pressing the code button and downloading as a .zip file.
+1. Download the folder as a zip by pressing the code button and download as a .zip file.
 ![shows where the link to download is](https://github.com/somersgreg/Lambda-Links/blob/master/github%20code%20link.com.png)
-1. User can open the zip and drag the .html file to desktop or a temp folder.
-1. User goes to browser of choice and Imports Bookmarks or Favorites as an HTML.
-1. User then can drag current working Unit sub folder forward in directory from the DORMANT folder for easy access while learning in that unit.
-1. Replace Unit folder when Unit is completed.
-1. WHEN DOING UPDATES you only need to repeat the process and then drag the updated material over - or your Unit folder to the new update - and then delete the other.
+1. Open the zip and drag the .html file to desktop or a temp folder.
+1. In browser: Import Bookmarks or Favorites as an HTML.
 
 ### I wish to stress that nothing bad will happen by downloading these links. They can be easily deleted from any browser by right clicking on the top folder and sending to trash.
-### I've included several links that I thought were most useful to new students.
-### I'm hoping for feedback about that and anything else that might come up.
-#### Different browsers will force rename the top folder.  I can't figure out how to stop this.  Help wanted. Preferred Top title currently is ' Λ_LAMBDA LINKS' just because it uses a lambda symbol as the first character which can help in several ways. 
-Im interested to learn how each browser handles the top folder so I can make it better so if anyone can test that would be super helpful. 
+### I've included some links I thought would be useful to new students.
+### Feedback please.
+#### Different browsers will force rename the top folder.  I can't figure out how to stop this.  Preferred title is ' Λ_LlAMA LINKS'. 
 
-Thank you and I hope this helps someone. 
+I hope this helps. 
