@@ -17,8 +17,8 @@
 ## What are the benefits?
 
 *  Simplicity and cross platform standardization.
-*  Room for improvement and potential knowledge based Web App integration.
-*  Ability to throw links into a folder without worrying about organizing, losing, or creating disorder.
+*  Room for improvement and potential knowledge based web app integration.
+*  Ability to add links to a folder without worrying about organizing, losing, or creating disorder.
 *  Seeking and sharing is enhanced especially if a web app is developed.
 *  Ease of finding links you need during a sprint exam.
 *  Give a better overview of student progress while maintaining a history as well.
